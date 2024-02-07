@@ -1,4 +1,4 @@
-module github.com/solo-io/protoc-gen-openapi
+module github.com/cytommi/protoc-gen-openapi
 
 go 1.18
 
@@ -6,6 +6,7 @@ require (
 	github.com/getkin/kin-openapi v0.80.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/golang/protobuf v1.3.2
+	github.com/solo-io/protoc-gen-openapi v0.1.1
 )
 
 require (
